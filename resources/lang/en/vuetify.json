@@ -1,0 +1,22 @@
+{
+  "login": {
+    "title": "login",
+    "login": "login",
+    "email": "email",
+    "password": "password",
+    "remember_me": "remember me",
+    "forgot_password": "forgot password",
+    "register": "register"
+  },
+  "form": {
+    "required": " (required)",
+    "email": "email",
+    "password": "password",
+    "cmts": "CMTS",
+    "sn": "Serial Number",
+    "mac": "MAC Address",
+    "device": "Device Type",
+    "subscriber_name": "Subscriber Name",
+    "plan": "Plan"
+  }
+}
